@@ -32,12 +32,12 @@ This project aims to predict stock market prices using various machine learning 
 
 ## Requirements:
 - Python 3.x
-* pandas for data manipulation.
-+ numpy for numerical computations.
+- pandas for data manipulation.
+- numpy for numerical computations.
 - scikit-learn for machine learning algorithms.
 - xgboost for gradient boosting.
-* tensorflow or keras for implementing LSTM.
-+ matplotlib and seaborn for data visualization.
+- tensorflow or keras for implementing LSTM.
+- matplotlib and seaborn for data visualization.
 
 ## **Future Work:**
 1. Incorporate more complex deep learning models (e.g., Transformer-based architectures).
